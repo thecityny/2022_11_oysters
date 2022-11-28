@@ -1,0 +1,286 @@
+:skip
+
+This document is configured using <a href="http://archieml.org">ArchieML</a>, a minimal markup language for creating interactive stories. It is mostly structured as name: text pairs, like so:
+
+title: NYC fridge story
+
+The name can be any single word, or multiple words without spaces between them. If the text contains multiple lines, you should use two colons after the name, and then add a closing tag at the end, like so:
+
+text::
+
+This is a multi-line paragraph.
+
+Within text of either type, you can use <b>bold</b>, <i>italics</i>, or <a href="https://chalkbeat.org">links</a>.
+
+::text
+
+Lines that are wrapped in [brackets] or {braces} signal sections and are used to organize the page generation code–please leave those alone if possible.
+
+:endskip
+
+{metadata}
+
+title: NYC schools, volunteers fight hunger as COVID food aid ends
+description: With pandemic-era food assistance winding down, schools and volunteers need help feeding hungry students and fending off food insecurity in their communities.
+url: https://projects.chalkbeat.org/2022/nyc-community-fridge-hunger-food-insecurity-pandemic-schools/
+image: assets/synced/photos/NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_018.jpg
+
+footnote::
+José A. Alvarado Jr. is a Puerto Rican photographer documenting class inequality, civic engagement, and contemporary issues in Puerto Rico and New York City. 
+
+Christina Veiga is a reporter covering New York City schools with a focus on school diversity and preschool. Contact Christina at [cveiga@chalkbeat.org](mailto:cveiga@chalkbeat.org).
+::footnote
+
+[.credits]
+* Photos: José Alvarado
+* Writing: Christina Veiga
+* Editing: Dan Lyon, Amy Zimmer, and Cara Fitzpatrick
+* Development: Thomas Wilburn
+[slides]
+
+slug: headline
+text::
+# 'Still hungry': Struggling to feed NYC students as pandemic aid wanes
+
+Photos by José Alvarado <br> Writing by Christina Veiga <br> Published: July 8, 2022
+::text
+align: headline
+alt: Outside of a school
+image: NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_001.jpg
+cropping: bottom
+
+
+slug: introduction
+type: text
+text::
+
+More people are hungry in New York City today than before COVID struck.
+
+Food insecurity has jumped by 36%. It’s higher among children. An estimated 1 in 4 children don’t have enough to eat — a 46% increase over pre-pandemic numbers <a href="https://www.cityharvest.org/food-insecurity/">according to Feeding America</a>, one of the leading anti-hunger nonprofits.
+
+One group of activists has been feeding communities on the Lower East Side of Manhattan and the Allerton neighborhood of the central Bronx, installing community refrigerators in schools and delivering bags of groceries for parents to take home when they pick up their children. 
+
+What sets the effort apart is the food is all plant-based. These kinds of leafy greens and fresh fruit can be too expensive for food-insecure families to afford or difficult to find in neighborhoods with few supermarkets. 
+
+Faced with higher needs and a shrinking social safety net, this group of volunteers is finding it harder to feed everybody. 
+
+This is their story. 
+
+<i>(</i><i>This story is best viewed on a larger screen or in landscape mode on mobile.)</i>
+
+::text
+
+slug: community-fridges
+text::
+Community fridges popped up on streets all across New York City during the pandemic. Neighbors stocked them with donations for fellow neighbors to use as they needed. This group installed fridges directly in schools because they knew schools already play a key role in keeping children fed. 
+::text
+image: NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_008.jpg
+
+slug: safety-net
+text::
+School lunch is free for <a href="https://ny.chalkbeat.org/2019/10/15/21121847/universal-free-lunch-is-linked-to-better-test-scores-in-new-york-city-new-report-finds">all New York City students</a>. With more than 70% of public school children coming from low-income families, the district is able to provide universal meals. 
+
+This safety net was one of the reasons then-Mayor Bill de Blasio had been reluctant to close classrooms in spring 2020, until the city devised a plan to serve grab-and-go meals. Schools handed out 130 million meals while buildings were closed during the pandemic.
+
+::text
+align: center
+image: NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_006.jpg
+cropping: left bottom
+
+slug: ps-20
+text::
+P.S. 20 on the Lower East Side had kept a modest food bank. But when COVID struck, the school could no longer keep up with the need. Educators began to cobble together outside donations, said Principal Sarah Pinto. 
+
+Soon, a new problem emerged. 
+
+“Almost every single organization we worked with only had dry goods. And so a lot of our families were dealing with high sodium, high salt, high sugar, pre-packed meals,” she said. 
+
+That changed in fall 2021, when volunteers began bringing fresh, healthy produce.
+::text
+image: NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_025.jpg
+
+slug: power-intro
+text::
+One of the volunteers leading the work is Power Malu, a mayor-like figure on the Lower East Side with feet in many worlds. 
+
+A leader in the urban running community, he also is a well-known figure in the underground poetry and Hip Hop scene, appearing in music videos and on MTV's Lyricist Lounge. He runs a nonprofit called <a href="https://artists-athletes-activists.org/">Artists, Athletes and Activists</a>.
+
+In February 2021, he helped open <a href="https://account.venmo.com/u/plantbasedcommunityfridge">a plant-based community fridge</a> outside Overthrow, a boxing gym that is also a community hub. Malu helps oversee events and partnerships at the gym. 
+::text
+image: NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_005.jpg
+
+slug: mejia-intro
+text::
+To help run the fridge, Malu tapped Lilah Mejia, a member of the local Community Education Council. She suggested they partner with schools to make sure the food was reaching the people who needed it most. Soon they were in P.S. 34, the elementary school she attended as a kid. 
+
+“The schools know who is hungry,” she said.
+::text
+image: 220322_CHALKBEAT-JOSEALVARADOJR_67.jpg
+cropping: 20% center
+
+slug: salas-intro
+text::
+Their work connected them with Rémysell Salas, an activist in the Bronx who had been leading his own efforts to feed his neighbors. Salas’s nephew, Emilio, shown here, often joined.
+
+“Being from here, I know everybody. There’s a common bond that they feel they can come to you,” he said. “I literally quit my job at one point just to be outside. The need was so much.”
+::text
+align: center
+cropping: center 30%
+image: NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_004.jpg
+
+slug: u-haul
+text::
+Through connections with nonprofits, donations, and a grant from the city’s Pandemic Food Reserve Emergency Distribution Program, Malu’s group managed to start regular deliveries at five schools. They also made the rounds at New York City Housing Authority developments.
+
+To get the food to where it’s needed, Malu rents a U-Haul, usually about 10- or 12-feet long.
+::text
+image: NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_002.jpg
+
+slug: pandemic-increase
+text::
+About 1.5 million New Yorkers are hungry. Among them are almost 500,000 children, according to City Harvest.
+::text
+image: NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_003.jpg
+cropping: 20% center
+
+slug: fresh-food-triplets
+text::
+Fresh food can be too expensive for many families with children. It can also be difficult to find in neighborhoods with few grocery stores, or at food pantries, where shelf-stable, processed foods are often the norm. 
+::text
+align: center
+type: multiple
+images: NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_031.jpg, NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_030.jpg, NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_032.jpg
+
+slug: bodega-ratio
+text::
+Eating healthy <a href="https://gothamist.com/news/mayor-adams-wants-to-fix-food-access-here-are-the-neighborhoods-lacking-supermarkets?utm_source=feedly&utm_medium=webfeeds">was a challenge for many New Yorkers</a> even before the pandemic. 
+
+The Lower East Side and much of the Bronx are in dire need of more grocery stores, <a href="https://www1.nyc.gov/site/planning/zoning/districts-tools/fresh-food-stores.page">according to a city analysis</a>. <a href="https://www.data2go.nyc/map/?id=107*36047015900*bodega_supermarket_cd!undefined!ns*!other_pop_cd_506~ahdi_puma_1~sch_enrol_cd_112~age_pyramid_male_85_plus_cd_20~median_household_income_puma_397~median_personal_earnings_puma_400~dis_y_perc_puma_102~poverty_ceo_cd_417~unemployment_cd_408~pre_k_cd_107!*air_qual_cd~ahdi_puma*family_homeless_cd_245#12/40.7968/-73.9201">The ratio of bodegas to grocery stores</a> on the Lower East Side is 18 to 1. In the area of the Bronx where these volunteers were delivering food, it’s about 17 to 1. 
+::text
+image: NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_011.jpg
+
+slug: power-vegan
+text::
+
+Malu has eaten a plant-based diet for about six years. Overthrow gym features posters and T-shirts with drawings of Malu, his signature Afro made to look like a broccoli floret. 
+::text
+cropping: center 20%
+image: NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_017.jpg
+
+slug: healthy-eating-double
+text::
+“Our kids are not eating healthy. And so how can we help, as community leaders in our neighborhood, to make an impact and make sure that our kids are eating well? You know, this is all connected in a way that it continues to keep us below and continues to keep us struggling,” Mejia said, referring to communities of color and people living in poverty.
+::text
+type: multiple
+align: center
+images: NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_026.jpg, NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_027.jpg
+
+slug: adams-vegan
+text::
+Mayor Eric Adams is also <a href="https://www1.nyc.gov/office-of-the-mayor/news/063-22/mayor-adams-nyc-health-hospitals-expand-access-lifestyle-medicine-services-city-wide#/0">an evangelist for healthy eating</a>. He credits a plant-based diet with reversing his own diabetes and vision loss years ago. Since taking office, he instituted vegan lunches in school cafeterias on Fridays. 
+::text
+cropping: center top
+image: NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_022.jpg
+
+slug: ps20-lunches
+text::
+But at P.S. 20, students were not eating the vegan lunches, which often consisted of the same menu of canned vegetables and brown rice. 
+
+Christine Drago, the gym teacher there who also oversees community partnerships, told Malu about the problem. 
+
+He connected with local vegan restaurants to donate prepared lunches like this cashew and tofu-based Bolognese pasta. 
+::text
+image: NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_020.jpg
+
+slug: power-bowl
+text::
+One student who went most of the lunch period without eating finally walked up to Malu to ask for a bowl. She tried it and was convinced. 
+
+“Seeing you smile made my day. Thank you,” Malu told her. 
+::text
+align: center
+image: NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_024.jpg
+cropping: top
+
+slug: containers-double
+text::
+Advocates are worried about the coming year.
+
+Market rate rents here are up almost 30%. Officials recently approved the biggest increase in rent stabilized apartments in almost a decade.
+
+<a href="https://www.urban.org/urban-wire/inflation-could-drive-more-families-toward-food-insecurity-summer?&utm_source=urban_newsletters&utm_medium=KIC">Inflation</a> has forced <a href="https://www.bls.gov/regions/new-york-new-jersey/news-release/consumerpriceindex_newyorkarea.htm#:~:text=From%20May%202021%20to%20May,from%20home%20rose%207.3%20percent.&text=The%20energy%20index%20rose%208.5,1.2%2Dpercent%20increase%20in%20April.">the largest year-over-year increase</a> in grocery prices seen in 43 years. Energy costs have also exploded. 
+
+Unemployment, at just under 6%, <a href="https://comptroller.nyc.gov/newsroom/new-york-by-the-numbers-monthly-economic-and-fiscal-outlook-no-66-june-6th-2022/#:~:text=The%20New%20York%20City%20unemployment,3.3%25%20in%20April%202022).">is about double the national average</a> in New York City. For Black residents it’s even higher: just under 12%.
+
+At the same time, assistance offered throughout the pandemic – an eviction moratorium, hefty child tax credits, and expanded unemployment aid – has largely evaporated. 
+
+<a href="https://state.nokidhungry.org/new-york/wp-content/uploads/sites/16/2022/05/No-Kid-Hungry-NY-_-Poll-Results.pdf">A recent survey</a> by the anti-hunger group No Kid Hungry found that families with public school students are especially struggling: Two-thirds said it’s harder to afford groceries now. 
+
+“Despite people assuming that the pandemic is ending, we’ve been saying this all along, that the hunger crisis is going to be with us a long time,” said Rachel Sabella, director of No Kid Hungry. 
+::text
+type: text
+images: NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_028.jpg, NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_029.jpg
+
+slug: ps20-need-increase
+text::
+The principal at P.S. 20 said her school noticed an uptick in need since the child tax credit ran out at the end of 2021. The credits briefly slashed childhood poverty levels. Many families used the <a href="https://www.chalkbeat.org/2021/11/15/22783579/child-tax-credit-schools-biden-reconciliation-plan-education-poverty-families-research">extra room in their budget to buy food</a>. 
+
+The pantry stocked by Malu and his band of volunteers has been a godsend. 
+
+“We are struggling right now,” said Fantino Gonzalez, a father of two at P.S. 20. He is going back to school in the hopes of doing better for his family. “The food, it helped out a lot … I’d be worried if they stopped doing it.”
+::text
+cropping: center top
+image: NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_010.jpg
+
+slug: ps34-delivery
+text::
+Malu pulled a rented U-Haul into the courtyard of P.S. 34 to deliver bags of food. 
+
+“There's some times when I don't have any food stamps, and they'll give me a bag of food and they will help me make it through the rest of the month,” said Tytiuna Davis, a mother of two children at P.S. 34.
+
+::text
+image: NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_007.jpg
+
+slug: ps34-grapes
+text::
+At P.S. 34 kids sprinted across the concrete schoolyard to a metal cart with bags of food. They were after green grapes — which were gone in a frenzied few minutes. 
+
+“It’s heartbreaking when there is no more. They want to eat this stuff,” Malu said. “You give them grapes and they get so excited – like a new pair of sneakers … It’s exciting but sad at the same time because they don’t have access to it.”
+::text
+align: center
+image: NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_018.jpg
+cropping: 25% center
+
+slug: spring-difficulties
+text::
+Feeding everyone has gotten harder for Malu and the other volunteers. 
+
+Early on, pandemic aid was flowing and <a href="https://account.venmo.com/u/plantbasedcommunityfridge">so were donations</a>. Working with Mejia, the volunteers landed a grant to install 10 more fridges in schools across the Lower East Side.
+
+This spring, though, <a href="https://www.thecity.nyc/2022/4/18/23031114/food-pantries-close-immigrant-need-grows">donations started to dry up</a>. Malu started dipping into his own pockets to keep the deliveries coming. “I’m in a position where I’m behind on rent right now,” he said this spring.
+
+At the end of June, the city grant ran out. By the end of the school year, deliveries dwindled to once a week, only feeding about 300. 
+
+“That gut feeling that I have is an urgency,” Malu said. “‘In these neighborhoods, people feel alone. They feel abandoned. And that’s been before COVID.”
+::text
+type: text
+image: NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_009.jpg
+
+slug: outro
+text::
+
+After prolonged school closures through the pandemic, and a return to buildings that was far from normal this year, much of the public’s attention has focused on how to help children make up for lost learning time.
+
+But it’s well-established that, for children to do well in school, <a href="https://www.chalkbeat.org/2018/9/26/21105768/here-s-a-list-of-studies-showing-that-kids-in-poverty-do-better-in-school-when-their-families-have-m">they need to have enough to eat</a>. 
+   
+“The world is moving on while we're still hungry,” said Pinto, the P.S. 20 principal. 
+
+“If we can create a sustainable system of food, imagine what we can do — once all of our kids and families don't go to bed hungry at night.”
+
+::text
+align: center
+image: NYC_20220603_Plant-BasedFridges_JoseAlvaradoJr_013.jpg
+
+
+
+José bio: José A. Alvarado Jr. is a Puerto Rican photographer documenting class inequality, civic engagement, and contemporary issues in Puerto Rico and New York City. 

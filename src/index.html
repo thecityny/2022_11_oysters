@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <%= t.include("partials/_head.html", archieml.story.metadata) %>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <nav class="nav">
+      <div class="nav-container">
+        <div class="nav-logo">
+          <a href="https://thecity.nyc/"><%=  t.include("assets/logo.svg") %></a>
+        </div>
+        <div class="nav-title"></div>
+        <div class="nav-links">
+          <a href="https://checkout.fundjournalism.org/memberform?&org_id=thecity&campaign=7011U000000VXZIQA4">Donate</a>
+        </div>
+      </div>
+    </nav>
+    <p class="copy-container chalkbeat-credit"> <a href="https://projects.chalkbeat.org/2022/nyc-community-fridge-hunger-food-insecurity-pandemic-schools/">This story </a>was originally published by Chalkbeat, a nonprofit news organization covering public education. Sign up for their newsletters here: <a href="https://www.chalkbeat.org/newsletters">ckbe.at/newsletters</a></p>
+    <hr>
+    <main>
+      <% for (var slide of archieml.story.slides) { %>
+        <%= t.include(`_${slide.type || "image"}.html`, { slide }) %>
+      <% } %>
+
+    </main>
+
+    <footer class="closing-footer">
+      <div class="constrain">
+        <div class="footnote">
+          <%= t.renderMarkdown(archieml.story.metadata.footnote) %>
+        </div>
+        <div class="credits">
+          <h3>Credits</h3>
+          <ul>
+            <% for (var credit of archieml.story.metadata.credits) { %>
+            <li> <%= credit %>
+            <% } %>
+          </ul>
+        </div>
+      </div>
+    </footer>
+
+    <%= t.include("partials/_footer.html") %>
+
+    <script src="app.js" async></script>
+    <%= t.include("partials/_analytics.html") %>
+  </body>
+</html>

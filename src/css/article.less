@@ -1,0 +1,316 @@
+
+@import (less) "fonts.css"; // /*
+//  * Media queries
+//  */
+// @mobile: ~"(max-width: 910px)";
+// @mobile-above: ~"(min-width: 911px)"; // @tablet: ~"(max-width: 768px)";
+/*
+ * Fonts
+ */
+@sans: 'Sharp Grotesk', Helvetica, sans-serif;
+@serif: 'Georgia', serif;
+@mono: 'Courier', monospace;
+
+.boldface() {
+  font-family: @sans;
+  font-weight: 900;
+}
+
+.boldface-ital() {
+  font-family: @sans;
+  font-weight: 900;
+  font-style: italic;
+}
+
+.medface() {
+  font-family: @sans;
+  font-weight: 700;
+}
+
+.medface-ital() {
+  font-family: @sans;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.bookface() {
+  font-family: @sans;
+  font-weight: 400;
+}
+
+.ital() {
+  font-family: @sans;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.lightface() {
+  font-family: @sans;
+  font-weight: 200;
+}
+
+.lightface-ital() {
+  font-family: @sans;
+  font-weight: 200;
+  font-style: italic;
+}
+
+// https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939
+// hide content visually and still make is accessible to assistive technology and search engines
+.visually-hidden() {
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  border: 0;
+  padding: 0;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  margin: -1px;
+}
+
+// https://www.scottohara.me/blog/2019/01/12/lists-and-safari.html
+// make lists accessible
+.plain-list() {
+  list-style: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'/%3E");
+  padding-left: 0;
+}
+/*
+ * Colors
+ */
+@city-white: #ebebeb;
+@city-grey: #8c8c8c;
+@city-black: #111111;
+@city-orange: #FA7416;
+@city-purple: #A9328A;
+@city-green: #36C269;
+@city-blue: #0C71FA;
+@city-gold: #FCC32C;
+@city-politics-red: #D02D3C;
+@city-politics-blue: #214DA5;
+
+.container {
+  width: 100%;
+  padding: 0 20px;
+  margin: 0 auto;
+  z-index:1;
+  background: #fff;
+
+}
+
+.copy-container {
+  max-width: 640px;
+  padding: 0 20px;
+  margin: 0 auto;
+
+}
+
+.chalkbeat-credit{
+  font-style: italic;
+  z-index:1;
+  padding:20px;
+  background-color:@city-black;
+  color: @city-grey;
+  opacity:0.9;
+  margin-top:8px;
+  // position: block;
+}
+
+
+.inset-container {
+  max-width: 440px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.photo-container {
+  max-width: 740px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.header {
+  padding: 10px;
+  text-align: center;
+  border-bottom: 1px solid #919191;
+  z-index:10;
+
+  svg {
+    width: 175px;
+    z-index:10
+  }
+}
+
+
+.nav {
+  z-index: 1;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #fff;
+  box-shadow: 0 0 4px 0 rgba(0,0,0,0.3);
+}
+
+.nav-container {
+  align-items: center;
+  display: flex;
+  padding: 10px 20px;
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.nav-logo {
+  width: 115px;
+  flex-grow: 0;
+}
+
+.nav-title {
+  .boldface();
+  text-transform: uppercase;
+  font-size: 26px;
+  flex-grow: 1;
+  text-align: center;
+  margin: 0;
+}
+
+.nav-links {
+  flex-grow: 0;
+
+  a {
+    padding: 12px 16px 10px;
+    border: 2px solid #000;
+    font-size: 16px;
+    color: #000;
+    background: #fff;
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    line-height: 1em;
+    .boldface();
+    letter-spacing: 3px;
+  }
+}
+
+.footer {
+  margin-top: 77px;
+  padding-top: 17px;
+  // border-top: 1px solid #bdbdbd;
+  z-index:10;
+}
+
+.footer-logo {
+  text-align: center;
+  margin-bottom: 31px;
+
+  svg {
+    width: 80px;
+  }
+}
+
+.footer-icons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 29px;
+
+  button {
+    background: none;
+    border: 1px solid #000;
+    border-radius: 50%;
+    width: 34px;
+    height: 34px;
+    display: block;
+    padding: 0;
+    margin: 0 24px 0 0;
+    cursor: pointer;
+    line-height: 0;
+  }
+
+  button:hover, button:focus, button:active {
+    background-color: @city-blue;
+    border-color: @city-blue;
+    color: #fff;
+
+    svg path {
+      fill: #fff;
+    }
+  }
+
+  button:last-child {
+    margin: 0;
+  }
+
+  .twitter svg {
+    width: 15px;
+    height: 13px;
+    margin: 0 0 0 1px;
+  }
+
+  .facebook svg {
+    width: 12px;
+    height: 18px;
+  }
+
+  .instagram svg {
+    width: 19px;
+    height: 19px;
+  }
+}
+
+.footer-links {
+  margin: 14px 0 13px;
+  padding: 0;
+  text-align: center;
+
+  li {
+    display: inline-block;
+    list-style-type: none;
+    text-transform: uppercase;
+    margin: 0 14px;
+    font-size: 14px;
+    line-height: 39px;
+    letter-spacing: 4px;
+    .boldface();
+  }
+
+  a, a:hover, a:active, a:focus, a:visited {
+    color: #000;
+    text-decoration: none;
+  }
+
+  a:hover, a:active, a:focus {
+    border-bottom: 2px solid @city-blue;
+  }
+}
+
+.copyright {
+  .medface();
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 9px;
+  letter-spacing: 3px;
+  line-height: 25px;
+  margin-bottom: 27px;
+}
+
+@media screen and (min-width: 740px) {
+  .photo figcaption {
+    font-size: 13px;
+    line-height: 16px;
+  }
+}
+
+@media screen and (min-width: 1180px) {
+  .footer {
+    margin-top: 60px;
+    padding-top: 42px;
+  }
+
+  .footer-links li {
+    margin: 0 27px;
+    font-size: 19px;
+    line-height: 50px;
+  }
+
+}

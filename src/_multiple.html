@@ -1,0 +1,20 @@
+<section class="image slide" data-slug="<%= slide.slug %>">
+
+  <div class="backdrop multiple">
+    <% for (var image of slide.images.split(/,\s*/)) { %>
+    <div class="image-frame">
+      <img
+        data-src="./assets/synced/photos/<%= image %>"
+        alt=""
+      >
+    </div>
+    <% } %>
+  </div>
+
+  <div class="constrain">
+    <div class="block <%= slide.align %>">
+      <%= t.renderMarkdown(slide.text) %>
+    </div>
+  </div>
+
+</section>

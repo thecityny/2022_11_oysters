@@ -1,0 +1,164 @@
+@import "base";
+@import "article";
+
+:root {
+  --layer-front: 999;
+  --layer-back: 0;
+  --layer-top: 9999;
+}
+
+.chalkbeat {
+  z-index: var(--layer-top);
+}
+
+.constrain {
+  max-width: 1000px;
+  margin: auto;
+  padding: 0 20px;
+}
+
+main {
+  background: black;
+  color: white;
+
+  a {
+    color: lighten(@teal, 20%);
+  }
+}
+
+.closing-footer {
+  font-family: @sans;
+  padding: 32px 0;
+  // background: @teal;
+  background: @city-grey;
+  color: white;
+  z-index: var(--layer-top);
+  position: relative;
+
+  .constrain {
+    display: flex;
+    justify-content: space-between;
+
+    @media @mobile {
+      display: block;
+    }
+  }
+
+  .footnote {
+    max-width: 500px;
+    padding-right: 20px;
+
+    a, a:visited, a:hover, a:active {
+      color: white;
+    }
+  }
+
+  .credits {
+    min-width: 300px;
+  }
+
+  h3 {
+    margin: 0 auto;
+    padding: 0;
+  }
+
+  ul {
+    margin: 0;
+    list-style-position: inside;
+    padding: 0;
+  }
+}
+
+.slide {
+  overflow: hidden;
+
+  &:first-child {
+    padding-top: 30vh;
+  }
+
+  .block {
+    float: right;
+    background: #222D;
+    color: #EEE;
+    padding: 20px;
+    box-shadow: 0 24px 24px -8px #0003;
+    position: relative;
+    clear: both;
+    margin: 0 auto 95vh auto;
+    z-index: var(--layer-front);
+    max-width: 400px;
+
+    &.left {
+      float: left;
+    }
+
+    &.center {
+      float: none;
+      max-width: 600px;
+    }
+
+    &.headline {
+      @background: #000A;
+      float: none;
+      max-width: 100%;
+      text-align: center;
+      // background: @background;
+      // box-shadow: 0 0 4px @background;
+      text-shadow: 2px 2px 0 black, -2px -2px 0 black, 0 0 8px black;
+      // background: linear-gradient(to top, transparent, @background, transparent);
+      background: radial-gradient(farthest-side ellipse at center 60%, @background, transparent);
+      box-shadow: none;
+      font-family: @sans;
+      padding: 60px 0;
+      max-width: 400px;
+
+      h1 {
+        margin-bottom: 0;
+        // text-transform: uppercase;
+        font-size: 32px;
+      }
+    }
+  }
+
+  .backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #111;
+    z-index: var(--layer-back);
+    transition: opacity .3s linear;
+  }
+
+  &:not(.active, .exiting) {
+    .backdrop { display: none !important; }
+  }
+
+  @keyframes fade-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+
+  @keyframes fade-out {
+    from { opacity: 1; }
+    to { opacity: 0; }
+  }
+
+  &.entering .backdrop {
+    animation-name: fade-in;
+    animation-duration: .6s;
+    animation-timing-function: linear;
+    animation-fill-mode: both;
+  }
+
+  &.exiting .backdrop {
+    animation-name: fade-out;
+    animation-duration: .6s;
+    animation-timing-function: linear;
+    animation-fill-mode: both;
+  }
+}
+
+@import "image-slide";
+@import "text-slide";

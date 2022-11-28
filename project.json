@@ -1,0 +1,33 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "qa-projects.thecity.nyc",
+      "path": "2022_07_schools-hunger"
+    },
+    "live": {
+      "bucket": "projects.thecity.nyc",
+      "path": "2022_07_schools-hunger"
+    }
+  },
+  "styles": {
+    "src/css/seed.less": "build/style.css"
+  },
+  "scripts": {
+    "src/js/main.js": "build/app.js"
+  },
+  "title": "",
+  "description": "",
+  "url": "",
+  "image": "assets/logo.png",
+  "analytics": {
+    "topicIDs": [],
+    "primaryTopic": "",
+    "secondaryTopics": []
+  },
+  "sheets": [],
+  "docs": {
+    "story": "1qxFvEF7CvnsbQNiXeKeVPhwtkVRqIBYBqOD8XvN11Gk"
+  },
+  "embedded": false,
+  "production": true
+}

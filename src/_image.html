@@ -1,0 +1,31 @@
+<%
+  var styleOptions = function(hash) {
+    var out = [];
+    for (var k in hash) {
+      if (!hash[k]) continue;
+      out.push([k, hash[k]].join(":"));
+    }
+    return out.join(";");
+  }
+
+%>
+<section class="image slide" data-slug="<%= slide.slug %>">
+
+  <% if (slide.image) { %>
+    <div class="backdrop solo">
+      <img
+        class="<%= slide.contain ? "contain" : "cover" %>"
+        data-src="./assets/synced/photos/<%= slide.image %>"
+        alt=""
+        style="<%= styleOptions({ "object-position": slide.cropping }) %>"
+      >
+    </div>
+  <% } %>
+
+  <div class="constrain">
+    <div class="block <%= slide.align %>">
+      <%= t.renderMarkdown(slide.text) %>
+    </div>
+  </div>
+
+</section>
