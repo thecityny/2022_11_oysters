@@ -1,7 +1,7 @@
-nyc_fridges
+oysters
 ======================================================
 
-This news app is built on our `interactive template <https://github.com/chalkbeat/interactive-template>`_. Check the readme for that template for more details about the structure and mechanics of the app, as well as how to start your own project.
+This news app is built on Chalkbeat's fork of NPR's `interactive template <https://github.com/chalkbeat/interactive-template>`. Check the readme for that template for more details about the structure and mechanics of the app, as well as how to start your own project.
 
 Getting started
 ---------------
@@ -14,13 +14,15 @@ To run this project you will need:
 
 With those installed, you can then set the project up using your terminal:
 
-#. Pull the code - ``git clone git@github.com:chalkbeat/nyc_fridges``
-#. Enter the project folder - ``cd nyc_fridges``
+#. Pull the code - ``git clone git@github.com:thecityny/2022_11_oysters.git``
+#. Enter the project folder - ``cd 2022_11_oysters``
 #. Install dependencies from NPM - ``npm install``
 #. Start the server - ``grunt``
 
 Running tasks
 -------------
+
+** For now, don't do any of the tasks below. **
 
 Like all interactive-template projects, this application uses the Grunt task runner to handle various build steps and deployment processes. To see all tasks available, run ``grunt --help``. ``grunt`` by itself will run the "default" task, which processes data and starts the development server. However, you can also specify a list of steps as arguments to Grunt, and it will run those in sequence. For example, you can just update the JavaScript and CSS assets in the build folder by using ``grunt bundle less``.
 

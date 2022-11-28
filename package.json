@@ -1,11 +1,11 @@
 {
-  "name": "nyc_fridges",
+  "name": "oysters",
   "description": "",
   "version": "0.0.1",
-  "author": "Thomas Wilburn",
+  "author": "Sam Maldonado",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chalkbeat/nyc_fridges.git"
+    "url": "https://github.com/thecityny/2022_11_oysters.git"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.81.0",

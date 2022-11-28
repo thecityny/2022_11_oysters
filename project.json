@@ -2,11 +2,11 @@
   "s3": {
     "stage": {
       "bucket": "qa-projects.thecity.nyc",
-      "path": "2022_07_schools-hunger"
+      "path": "2022_11_oysters"
     },
     "live": {
       "bucket": "projects.thecity.nyc",
-      "path": "2022_07_schools-hunger"
+      "path": "NAMETK"
     }
   },
   "styles": {
@@ -26,7 +26,7 @@
   },
   "sheets": [],
   "docs": {
-    "story": "1qxFvEF7CvnsbQNiXeKeVPhwtkVRqIBYBqOD8XvN11Gk"
+    "story": "1qxFvEF7CvnsbQNiXeKeVPhwtkVRqIBYBqOD8XvN11Gk_REPLACEME"
   },
   "embedded": false,
   "production": true
