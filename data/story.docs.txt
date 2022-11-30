@@ -49,7 +49,6 @@ cropping: bottom
 slug: introduction
 type: text
 text::
-<i>(This story is best viewed on a larger screen or in landscape mode on mobile.)</i>
 
 On your plate, the gray putty of an oyster is nestled into a palm-sized, pearlescent shell, waiting to be eaten. But around New York City, oysters cling to concrete and one another, working to make the harbor a stronger, healthier place.
 
