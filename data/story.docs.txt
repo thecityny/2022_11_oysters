@@ -23,17 +23,14 @@ Lines that are wrapped in [brackets] or {braces} signal sections and are used to
 title: “The most resilient New Yorkers”: Oysters get second life in harbor
 description: As part of an effort to restore oysters in the city’s waters, shells take a journey from dinner plates to docks to benefit our local ecology. 
 url: TK
-image: assets/synced/photos/102522_billion_oyster_williamsburg_1.jpg
+image: assets/photos/102522_billion_oyster_williamsburg_1.jpg
 
 footnote::
-TK reporter/photog bios
 ::footnote
 
 [.credits]
-* Photos: TK
-* Writing: Samantha Maldonado
-* Editing: TK
-* Development: TK
+* Photos: Ben Fractenberg
+* Reporting: Samantha Maldonado
 [slides]
 
 slug: headline
@@ -42,7 +39,7 @@ text::
 
 <b>As part of an effort to restore oysters in the city’s waters, shells take a journey from dinner plates to docks to benefit our local ecology.</b>
  
-Photos by TK<br> Writing by Samantha Maldonado<br> Published: December TK, 2022
+By [Samantha Maldonado](https://www.thecity.nyc/authors/sam-maldonado)<br />Photos by [Ben Fractenberg](https://www.thecity.nyc/authors/ben-fractenberg)<br />December 1, 2022
 ::text
 align: headline
 alt: TK ALT TEXT TK
