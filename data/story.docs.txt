@@ -23,7 +23,7 @@ Lines that are wrapped in [brackets] or {braces} signal sections and are used to
 title: “The most resilient New Yorkers”: Oysters get second life in harbor
 description: As part of an effort to restore oysters in the city’s waters, shells take a journey from dinner plates to docks to benefit our local ecology. 
 url: https://projects.thecity.nyc/oysters-new-york-harbor
-image: assets/photos/102522_billion_oyster_williamsburg_1.jpg
+image: /assets/photos/102522_billion_oyster_williamsburg_1.jpg
 
 footnote::
 ::footnote
