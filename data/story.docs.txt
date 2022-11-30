@@ -39,7 +39,7 @@ text::
 
 <b>See shells journey from dinner plates to docks as environmentalists restaurateurs use mollusks to boost local ecology.</b>
  
-By [Samantha Maldonado](https://www.thecity.nyc/authors/sam-maldonado)<br />Photos by [Ben Fractenberg](https://www.thecity.nyc/authors/ben-fractenberg)<br />December 1, 2022
+By [Samantha Maldonado](https://www.thecity.nyc/authors/samantha-maldonado)<br />Photos by [Ben Fractenberg](https://www.thecity.nyc/authors/ben-fractenberg)<br />December 1, 2022
 ::text
 align: headline
 alt: Emily Roan and Jennifer Zhu of the Billion Oyster Project tag shells before placing them along the Williamsburg waterfront.
