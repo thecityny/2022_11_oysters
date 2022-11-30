@@ -3,6 +3,8 @@
 
 <title><%= title %> :: thecityny</title>
 
+<meta name="description" content="<%= description %>" />
+<link rel="canonical" href="https://projects.thecity.nyc/oysters-new-york-harbor/" />
 
 <!-- Favicon -->
 <meta name="apple-mobile-web-app-title" content="The City">
@@ -26,15 +28,15 @@
 <meta name="twitter:title" content="<%= title %>">
 <meta name="twitter:site" content="@thecityny">
 <meta name="twitter:url" content="<%= url %>">
-<meta name="twitter:image" content="<%= url + image %>">
+<meta name="twitter:image" content="<%= url + '/' + image %>">
 <meta name="twitter:description" content="<%= description %>">
 
 <!-- Social sharing meta -->
 <meta property="og:type" content="article">
 <meta property="og:title" content="<%= title %>">
-<meta property="og:site_name" content="The City">
+<meta property="og:site_name" content="THE CITY">
 <meta property="og:url" content="<%= url %>">
-<meta property="og:image" content="<%= url + image %>">
+<meta property="og:image" content="<%= url + '/' + image %>">
 <meta property="og:description" content="<%= description %>">
 
 
@@ -50,18 +52,23 @@
   "headline": "<%= title %>",
   "image": {
     "@type": "ImageObject",
-    "url": "<%= url + image %>"
+    "url": "<%= url + '/' + image %>"
   },
-  "author": {
+  "author": [{
     "@type": "Person",
-    "name": "Samantha Maldonado"
-  },
+    "name": "Samantha Maldonado",
+    "url": "https://www.thecity.nyc/authors/samantha-maldonado"
+  },{
+    "@type": "Person",
+    "name": "Ben Fractenberg",
+    "url": "https://www.thecity.nyc/authors/ben-fractenberg"
+  }],
   "publisher": {
     "@type": "Organization",
     "name": "THE CITY",
     "logo": {
       "@type": "ImageObject",
-      "url": "<%= url %>assets/logo.png",
+      "url": "<%= url %>/assets/logo.png",
       "width": 2176,
       "height": 725
     }
@@ -76,3 +83,15 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed&family=IBM+Plex+Serif&display=swap" rel="stylesheet"> 
 
+
+
+--
+"author": [{
+  "@type": "Person",
+  "name": "Jane Doe",
+  "url": "https://example.com/profile/janedoe123"
+},{
+  "@type": "Person",
+  "name": "John Doe",
+  "url": "https://example.com/profile/johndoe123"
+}]
