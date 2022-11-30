@@ -79,14 +79,14 @@ Lighthouse sources its oysters from the east coast and, as part of a suite of th
 
 “The world seems to be in a dire place,” said co-owner Naama Tamir. “We're kind of taking a step back and shifting our systems a little bit and then putting some energy into correcting the damage.”
 
-Pictured, Lighthouse cook Kenley Philias shucks an East Coast oyster for happy hour.
+<i>Lighthouse cook Kenley Philias shucks an East Coast oyster for happy hour.</i>
 ::text
 align: center
 image: 112222_lighthouse_oyster_1.jpg
 
 slug: 112222_lighthouse_oyster_4_crop
 text::
-Williamsburg residents Jen Collins and Ralph Louis enjoy oysters with their happy-hour drinks at Lighthouse. Collins is friends with Tamir and knew what would become of her oyster discarded shells.
+<i>Williamsburg residents Jen Collins and Ralph Louis enjoy oysters with their happy-hour drinks at Lighthouse. Collins is friends with Tamir and knew what would become of her oyster discarded shells.</i>
 
 “I got to eat delicious oysters and help the environment? Great,” said Collins, who works in sales at a mezcal company.
 ::text
@@ -117,7 +117,7 @@ cropping: 80% bottom
 
 slug: 111622_billion_oyster_gov_island_6
 text::
-At the southeastern edge of Governors Island, a truck tips the shells into a pile with countless others. The mound weighs between 400,000 and 500,000 pounds, and towers over six-feet high at its tallest point. When the breeze blows, the newer shells give off the scent of the ocean.
+<i>At the southeastern edge of Governors Island, a truck tips the shells into a pile with countless others. The mound weighs between 400,000 and 500,000 pounds, and towers over six-feet high at its tallest point. When the breeze blows, the newer shells give off the scent of the ocean.</i>
 
 The shells stay in the heap for about a year in order to cure, a process that clears the shells of bacteria and pathogens. Since the restaurants source oysters from all over the world, different diseases found in other water bodies could threaten the balance of the local ecosystem if introduced.
 ::text
@@ -151,14 +151,14 @@ image: gov_island_container_2.jpg
 
 slug: 102522_billion_oyster_williamsburg_2
 text::
-Johnny Anderson, BOP’s fabrication coordinator, pilots the boat carrying shells from Governors Island to the Williamsburg shoreline on an oyster reef installation day.
+<i>Johnny Anderson, BOP’s fabrication coordinator, pilots the boat carrying shells from Governors Island to the Williamsburg shoreline on an oyster reef installation day.</i>
 ::text
 align: center
 image: 102522_billion_oyster_williamsburg_2.jpg
 
 slug: 102522_billions_oyster_williamsburg_7
 text::
-The BOP’s Emily Roan, a remote setting technician, and Zhu tag shells before placing them along the Williamsburg waterfront under part of a promenade at Domino Park — about a mile from Lighthouse.
+<i>The BOP’s Emily Roan, a remote setting technician, and Zhu tag shells before placing them along the Williamsburg waterfront under part of a promenade at Domino Park — about a mile from Lighthouse.</i>
 
 In shallow, calm waters, BOP staff and volunteers can layer rocks, cured shells and the shells onto which the larvae have attached. But most of the New York Harbor is busy, so to make sure the shells remain in place, the oysters are installed within the metal crates, mesh bags, and other structures that hold them in place. 
 ::text
@@ -167,14 +167,14 @@ image: 102522_billions_oyster_williamsburg_7.jpg
 
 slug: 102522_billion_oyster_williamsburg_6_crop
 text::
-Ben LoGuidice, a remote setting manager, prepares the installation of concrete disks protruding from a Williamsburg shore wall to attract marine life. 
+<i>Ben LoGuidice, a remote setting manager, prepares the installation of concrete disks protruding from a Williamsburg shore wall to attract marine life. </i>
 ::text
 align: center
 image: 102522_billion_oyster_williamsburg_6_crop.jpg
 
 slug: 102522_billion_oyster_williamsburg_10
 text::
-Roan places bags of shells along the seawall. 
+<i>Roan places bags of shells along the seawall.</i>
 
 In rare cases, staff have dumped oysters directly into the water — like in the five-acre reef in Soundview, in The Bronx. But the having specific structures allows staff to pull them up and move them if needed or to take a closer look as part of fall and spring monitoring.
 
@@ -190,14 +190,14 @@ image: 102522_billion_oyster_williamsburg_10.jpg
 slug: image: 102522_billions_oyster_williamsburg_8.jpg
 
 text::
-Helene Hetrick, BOP’s director of communications, scrambles over a rock wall after climbing out from beneath the Williamsburg promenade off Grand Street. 
+<i>Helene Hetrick, BOP’s director of communications, scrambles over a rock wall after climbing out from beneath the Williamsburg promenade off Grand Street. </i>
 ::text
 align: center
 image: 102522_billions_oyster_williamsburg_8.jpg
 
 slug: 111622_billion_oyster_gov_island_10_crop
 text::
-On a recent Wednesday in November, Shinara Sunderlal, an education outreach manager with BOP, hoisted up a reef structure from the water on the northeastern shore of Governors Island. She encouraged a group of second-graders from PS 676 in Red Hook to explore clumps of oysters. The oysters were between about 2 and 7 years old, with the oldest as big as the children’s faces. Some oysters grew beyond the structure meant to contain them, but Sunderlal said if they’re coming out of their cage, then they’re doing just fine.
+<i>On a recent Wednesday in November, Shinara Sunderlal, an education outreach manager with BOP, hoisted up a reef structure from the water on the northeastern shore of Governors Island. She encouraged a group of second-graders from PS 676 in Red Hook to explore clumps of oysters. The oysters were between about 2 and 7 years old, with the oldest as big as the children’s faces. Some oysters grew beyond the structure meant to contain them, but Sunderlal said if they’re coming out of their cage, then they’re doing just fine.</i>
 ::text
 align: center
 image: 111622_billion_oyster_gov_island_10_crop.jpg
