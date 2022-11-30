@@ -79,14 +79,14 @@ Lighthouse sources its oysters from the east coast and, as part of a suite of th
 
 “The world seems to be in a dire place,” said co-owner Naama Tamir. “We're kind of taking a step back and shifting our systems a little bit and then putting some energy into correcting the damage.”
 
-<i>Lighthouse cook Kenley Philias shucks an East Coast oyster for happy hour.</i>
+<i>Pictured: Lighthouse cook Kenley Philias shucks an East Coast oyster for happy hour.</i>
 ::text
 align: center
 image: 112222_lighthouse_oyster_1.jpg
 
 slug: 112222_lighthouse_oyster_4_crop
 text::
-<i>Williamsburg residents Jen Collins and Ralph Louis enjoy oysters with their happy-hour drinks at Lighthouse. Collins is friends with Tamir and knew what would become of her oyster discarded shells.</i>
+Williamsburg residents Jen Collins and Ralph Louis enjoy oysters with their happy-hour drinks at Lighthouse. Collins is friends with Tamir and knew what would become of her oyster discarded shells.
 
 “I got to eat delicious oysters and help the environment? Great,” said Collins, who works in sales at a mezcal company.
 ::text
@@ -151,14 +151,14 @@ image: gov_island_container_2.jpg
 
 slug: 102522_billion_oyster_williamsburg_2
 text::
-<i>Johnny Anderson, BOP’s fabrication coordinator, pilots the boat carrying shells from Governors Island to the Williamsburg shoreline on an oyster reef installation day.</i>
+Johnny Anderson, BOP’s fabrication coordinator, pilots the boat carrying shells from Governors Island to the Williamsburg shoreline on an oyster reef installation day.
 ::text
 align: center
 image: 102522_billion_oyster_williamsburg_2.jpg
 
 slug: 102522_billions_oyster_williamsburg_7
 text::
-<i>The BOP’s Emily Roan, a remote setting technician, and Zhu tag shells before placing them along the Williamsburg waterfront under part of a promenade at Domino Park — about a mile from Lighthouse.</i>
+The BOP’s Emily Roan, a remote setting technician, and Zhu tag shells before placing them along the Williamsburg waterfront under part of a promenade at Domino Park — about a mile from Lighthouse.
 
 In shallow, calm waters, BOP staff and volunteers can layer rocks, cured shells and the shells onto which the larvae have attached. But most of the New York Harbor is busy, so to make sure the shells remain in place, the oysters are installed within the metal crates, mesh bags, and other structures that hold them in place. 
 ::text
