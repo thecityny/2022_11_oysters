@@ -201,6 +201,7 @@ On a recent Wednesday in November, Shinara Sunderlal, an education outreach mana
 ::text
 align: center
 image: 111622_billion_oyster_gov_island_10_crop.jpg
+cropping: right bottom
 
 slug: 111622_billion_oyster_gov_island_2
 text::
@@ -225,6 +226,7 @@ But over time, the reefs became too toxic to serve as a source of food. The oyst
 ::text
 align: center
 image: oyster_house_crop_copy_crop.jpg
+cropping: right center
 
 slug: 081622_billion_oyster_battery_park_1_crop
 text::
