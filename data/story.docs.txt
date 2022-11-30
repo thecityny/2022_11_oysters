@@ -114,6 +114,7 @@ From the depot, the shells head to Governors Island.
 ::text
 align: center
 image: 111622_governors_island_ferry_1_crop.jpg
+cropping: bottom
 
 slug: 111622_billion_oyster_gov_island_6
 text::
