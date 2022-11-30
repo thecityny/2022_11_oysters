@@ -59,7 +59,7 @@ Founded in 2014 with a goal to reintroduce oysters — a billion of them! — in
 It’s a journey that begins beyond the boundaries of the state, passing through local restaurants, with a year-long rest at Governors Island, and into the waters surrounding the five boroughs. The process harkens back towards the city’s history — from when the diets of the Lenape people featured the plentiful, local oysters, to when the oyster population declined due to overharvesting and industrial pollution — and looks to build a more hopeful future.
 ::text
 
-slug: TK slug TK
+slug: 112222_lighthouse_oyster_1
 text::
 Sixty restaurants in Manhattan and Brooklyn participate in the Billion Oyster Project’s shell collection program, including Lighthouse in Williamsburg. Saving the leftover shells from the oysters that diners slurp provides the literal foundation for the oysters.
 
@@ -72,7 +72,7 @@ Pictured, Lighthouse cook Kenley Philias shucks an oyster for happy hour.
 align: center
 image: 112222_lighthouse_oyster_1.jpg
 
-slug: TK slug TK
+slug: 112222_lighthouse_oyster_4
 text::
 Williamsburg residents Jen Collins and Ralph Louis enjoy oysters with their happy-hour drinks at Lighthouse. Collins is friends with Tamir and knew what would become of her oyster discarded shells.
 
@@ -81,28 +81,28 @@ Williamsburg residents Jen Collins and Ralph Louis enjoy oysters with their happ
 align: center
 image: 112222_lighthouse_oyster_4.jpg
 
-slug: TK slug TK
+slug: 112222_billion_oyster_pickup_1
 text::
 When customers finish their oysters, Lighthouse staff place the discarded shells into blue bins. Joel Rosado, left, and Boris Delgado pick up and pour the discarded shells into the back of their truck. 
 ::text
 align: center
 image: 112222_billion_oyster_pickup_1.jpg
 
-slug: TK slug TK
+slug: 112222_billion_oyster_pickup_4
 text::
 They made visits to multiple restaurants starting at 5 a.m., and transported the shells to a depot in Greenpoint, Brooklyn.
 ::text
 align: center
 image: 112222_billion_oyster_pickup_4.jpg
 
-slug: TK slug TK
+slug: 111622_governors_island_ferry_1
 text::
 From the depot, the shells head to Governors Island. 
 ::text
 align: center
 image: 111622_governors_island_ferry_1.jpg
 
-slug: TK slug TK
+slug: 111622_billion_oyster_gov_island_6
 text::
 At the southeastern edge of Governors Island, a truck tips the shells into a pile with countless others. The mound of shells weighs between 400,000 and 500,000 pounds, and towers over six-feet high at its tallest point. When the breeze blows, the newer shells give off the scent of the ocean.
 
@@ -111,14 +111,14 @@ The shells stay in the heap for about a year in order to cure, a process that cl
 align: center
 image: 111622_billion_oyster_gov_island_6.jpg
 
-slug: TK slug TK
+slug: 111622_billion_oyster_gov_island_8
 text::
 After a year, volunteers and BOP staff rinse and tumble the shells to separate any that have clumped together. They pour the shells into plastic trays, mesh bags and metal cages called gabions. 
 ::text
 align: center
 image: 111622_billion_oyster_gov_island_8.jpg
 
-slug: TK slug TK
+slug: governos_island_container
 text::
 Then it’s time for “seeding” the oyster shells with larvae. The gabions, filled with shells, make their way to the Red Hook Terminal, where they enter water-sealed shipping containers. There, water from the harbor fills the containers and staff add millions of oyster larvae to the mix. Most of the larvae comes from a hatchery in Maine.
 
@@ -127,7 +127,7 @@ Then it’s time for “seeding” the oyster shells with larvae. The gabions, f
 align: center
 image: governos_island_container.jpg
 
-slug: TK slug TK
+slug: gov_island_container_2
 text::
 The larvae can take up to a week to attach to the shells. In some cases, larvae are seeded directly onto a ball or blocky shapes made of a special concrete. Once the baby oysters are visible to the human eye, they can go into the harbor as part of a reef.
 
@@ -136,14 +136,14 @@ The larvae can take up to a week to attach to the shells. In some cases, larvae 
 align: center
 image: gov_island_container_2.jpg
 
-slug: TK slug TK
+slug: 102522_billion_oyster_williamsburg_2
 text::
 Johnny Anderson, BOP’s fabrication coordinator, navigates the boat carrying oysters from Governors Island to the Williamsburg shoreline on an oyster reef installation day.
 ::text
 align: center
 image: 102522_billion_oyster_williamsburg_2.jpg
 
-slug: TK slug TK
+slug: 102522_billion_oyster_williamsburg_1
 text::
 Emily Roan, a remote setting technician, and marine habitat resource specialist Jennifer Zhu tags shells before placing them along the Williamsburg waterfront under part of a promenade at Domino Park — about a mile from Lighthouse.
 
@@ -152,14 +152,14 @@ In shallow, calm waters, BOP staff and volunteers can layer rocks, cured shells 
 align: center
 image: 102522_billion_oyster_williamsburg_1.jpg
 
-slug: TK slug TK
+slug: 102522_billions_oyster_williamsburg_6
 text::
 Ben LoGuidice, a remote setting manager, prepares the installation of concrete disks protruding from a Williamsburg shore wall to attract marine life. 
 ::text
 align: center
 image: 102522_billions_oyster_williamsburg_6.jpg
 
-slug: TK slug TK
+slug: 102522_billion_oyster_williamsburg_10
 text::
 Roan places the bags of shells along the seawall. 
 
@@ -174,21 +174,22 @@ During the monitoring sessions, BOP staff may also get a gander at wild oysters,
 align: center
 image: 102522_billion_oyster_williamsburg_10.jpg
 
-slug: TK slug TK
+slug: image: 102522_billions_oyster_williamsburg_8.jpg
+
 text::
 Helene Hetrick, BOP’s director of communications, scrambles over a rock wall after climbing out from beneath the Williamsburg promenade off Grand Street. 
 ::text
 align: center
 image: 102522_billions_oyster_williamsburg_8.jpg
 
-slug: TK slug TK
+slug: 111622_billion_oyster_gov_island_10
 text::
 On a recent Wednesday in November, Shinara Sunderlal, an education outreach manager with BOP, hoisted up an oyster structure from the water on the northeastern shore of Governors Island. She encouraged a group of second-graders from PS 676 in Red Hook to explore clumps of oysters. The oysters were between about two and seven years old, with the oldest as big as the children’s faces. Oysters grew beyond the structure meant to contain them, but Sunderlal said if they’re coming out of their cage, then they’re doing just fine.
 ::text
 align: center
 image: 111622_billion_oyster_gov_island_10.jpg
 
-slug: TK slug TK
+slug: 111622_billion_oyster_gov_island_2
 text::
 Sunderlal pointed out burnt orange tunicates and mussels, the forms of marine life that make a home on the oysters, which grow in clusters and allow critters to live within the nooks. In the past, staff and students have observed clam worms, seahorses, toadfish, blue crabs and schools of bunker fish, which serve as food for humpback whales.
 
@@ -201,7 +202,7 @@ Oysters are a keystone species, which means they are a foundational part of an e
 align: center
 image: 111622_billion_oyster_gov_island_2.jpg
 
-slug: TK slug TK
+slug: oyster_house_crop_copy
 text::
 Oysters used to thrive in the New York harbor and were plentiful. Long ago, the Lenape people ate oysters and fashioned tools from the shells. In the 1600s, over 200 square miles of oyster reefs covered the harbor. Oysters were an iconic local delicacy, peddled from carts on streets and from oyster houses, like the two pictured under the Manhattan Bridge in 1937.
 ::text
@@ -214,7 +215,7 @@ text::
 But over time, the reefs became too toxic to serve as a source of food. The oyster population dropped off owing to declining water quality — thanks in large part to industrial pollution, dredging and the combined sewer overflow system that pours raw sewage in the water when it rains— as well as overharvesting as New York exported the oysters.
 ::text
 
-slug: TK slug TK
+slug: 081622_billion_oyster_battery_park_1
 text::
 The bivalves clean the water by eating microscopic, organic material like phytoplankton and zooplankton, and filtering contaminants from the raw sewage dumped into the water when the sewers — which handle both stormwater and wastewater — overflow during rainstorms. Each oyster can filter up to 50 gallons of water a day — meaning a billion could filter the entire harbor in three days, Zhu said.
 
@@ -227,7 +228,7 @@ And because of smarter, environmentally friendly practices around our harbor, it
 align: center
 image: 081622_billion_oyster_battery_park_1.jpg
 
-slug: TK slug TK
+slug: 111622_billion_oyster_gov_island_5
 text::
 Oyster reefs along the coasts also buffer against storms by acting as speed bumps to slow waves as they break. This lessens the wave’s impact and mitigates erosion.
 
