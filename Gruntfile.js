@@ -28,5 +28,5 @@ module.exports = function(grunt) {
     "template"
   ]);
   grunt.registerTask("serve", "Start the dev server", ["connect:dev", "watch"]);
-  grunt.registerTask("default", ["clean", "static", "serve"]);
+  grunt.registerTask("default", ["clean", "static"]);
 };
