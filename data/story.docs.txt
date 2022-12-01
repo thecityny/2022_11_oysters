@@ -88,7 +88,7 @@ slug: 112222_lighthouse_oyster_4_crop
 text::
 Williamsburg residents Jen Collins and Ralph Louis enjoy oysters with their happy-hour drinks at Lighthouse. Collins is friends with Tamir and knew what would become of her discarded oyster shells.
 
-“I got to eat delicious oysters and help the environment? Great,” said Collins, who works in sales at a mezcal company.
+“I got to eat delicious oysters and help the environment? Great!” said Collins, who works in sales at a mezcal company.
 ::text
 align: center
 image: 112222_lighthouse_oyster_4_crop.jpg
