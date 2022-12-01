@@ -21,9 +21,9 @@
       <% for (var slide of archieml.story.slides) { %>
         <%= t.include(`_${slide.type || "image"}.html`, { slide }) %>
       <% } %>
-
     </main>
 
+    <%= t.include("partials/_scoop.html") %>
 
     <%= t.include("partials/_footer.html") %>
 
