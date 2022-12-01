@@ -190,7 +190,7 @@ image: 102522_billion_oyster_williamsburg_10.jpg
 slug: image: 102522_billions_oyster_williamsburg_8.jpg
 
 text::
-Helene Hetrick, BOP’s director of communications, scrambles over a rock wall after climbing out from beneath the Williamsburg promenade off Grand Street. 
+<i>Pictured: Helene Hetrick, BOP’s director of communications, scrambles over a rock wall after climbing out from beneath the Williamsburg promenade off Grand Street.</i>
 ::text
 align: center
 image: 102522_billions_oyster_williamsburg_8.jpg
