@@ -174,7 +174,7 @@ image: 102522_billion_oyster_williamsburg_6_crop.jpg
 
 slug: 102522_billion_oyster_williamsburg_10
 text::
-In rare cases, staff have dumped oysters directly into the water — like in the five-acre reef in Soundview, in The Bronx. But the having specific structures allows staff to pull them up and move them if needed or to take a closer look as part of fall and spring monitoring.
+In rare cases, staff have dumped oysters directly into the water — like in the five-acre reef in Soundview, in The Bronx. But having specific structures allows staff to pull them up and move them if needed or to take a closer look as part of fall and spring monitoring.
 
 Zhu will measure the water quality as well as the growth and mortality rates of the shellfish. Live oysters are heavier, and their shells clam up when poked. Dead oysters may have shells that are cracked open or packed with sediment. A bubble may come out when tapped.
 
