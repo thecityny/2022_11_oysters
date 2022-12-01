@@ -62,7 +62,7 @@ Oyster restoration is a journey that begins beyond the boundaries of the state, 
 
 slug: map_of_oyster_locations
 text::
-The Billion Oyster Project is one of several <a href="https://www.cbf.org/about-cbf/our-mission/restore/oyster-restoration/index.html">oyster restoration</a> projects <a href="https://www.nature.org/en-us/about-us/where-we-work/united-states/oyster-restoration/">across the country</a>, though none other take place in such busy, urbanized waterways. The ultimate goal of BOP is to return to a self-sustaining oyster population — while connecting millions of New Yorkers with the water.
+The Billion Oyster Project is one of several <a href="https://www.cbf.org/about-cbf/our-mission/restore/oyster-restoration/index.html">oyster restoration</a> projects <a href="https://www.nature.org/en-us/about-us/where-we-work/united-states/oyster-restoration/">across the country</a>, but it’s the only one that takes place in such a busy, urbanized waterway. The ultimate goal of BOP is to return to a self-sustaining oyster population — while connecting millions of New Yorkers with the water.
 
 “Oysters are just so much more than for your consumption. They clean the water, they provide habitat for other marine species, they are lessening that wave energy so that hopefully the storm that's coming isn't going to flood your basement,” said Jennifer Zhu, the BOP’s marine habitat resource specialist. “The way they can still live with trash and sewage and the dredging — it’s amazing. They are the most resilient New Yorkers that are out there.”
 ::text
