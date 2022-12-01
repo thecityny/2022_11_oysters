@@ -167,15 +167,13 @@ image: 102522_billions_oyster_williamsburg_7.jpg
 
 slug: 102522_billion_oyster_williamsburg_6_crop
 text::
-<i>Ben LoGuidice, a remote setting manager, prepares the installation of concrete disks protruding from a Williamsburg shore wall to attract marine life. </i>
+<i>Pictured: Ben LoGuidice, a remote setting manager, prepares the installation of concrete disks protruding from a Williamsburg shore wall to attract marine life. </i>
 ::text
 align: center
 image: 102522_billion_oyster_williamsburg_6_crop.jpg
 
 slug: 102522_billion_oyster_williamsburg_10
 text::
-<i>Roan places bags of shells along the seawall.</i>
-
 In rare cases, staff have dumped oysters directly into the water — like in the five-acre reef in Soundview, in The Bronx. But the having specific structures allows staff to pull them up and move them if needed or to take a closer look as part of fall and spring monitoring.
 
 Zhu will measure the water quality as well as the growth and mortality rates of the shellfish. Live oysters are heavier, and their shells clam up when poked. Dead oysters may have shells that are cracked open or packed with sediment. A bubble may come out when tapped.
@@ -183,6 +181,8 @@ Zhu will measure the water quality as well as the growth and mortality rates of 
 During the monitoring sessions, BOP staff may also get a gander at wild oysters, like at Coney Island Creek and Brooklyn Bridge Park.
 
 “We can't say for sure if those wild oysters are the babies that are produced from our oysters or the oysters that are just out and about and already there,” Zhu said. 
+
+<i>Pictured: Roan places bags of shells along the seawall.</i>
 ::text
 align: center
 image: 102522_billion_oyster_williamsburg_10.jpg
