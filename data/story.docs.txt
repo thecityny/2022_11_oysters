@@ -37,7 +37,7 @@ slug: headline
 text::
 #  ‘The Most Resilient New Yorkers’ — Oysters Get Second Life in Harbor
 
-<b>See shells journey from dinner plates to docks as environmentalists restaurateurs use mollusks to boost local ecology.</b>
+<b>See shells journey from dinner plates to docks as environmentalists and restaurateurs use mollusks to boost local ecology.</b>
  
 By [Samantha Maldonado](https://www.thecity.nyc/authors/samantha-maldonado)<br />Photos by [Ben Fractenberg](https://www.thecity.nyc/authors/ben-fractenberg)<br />December 1, 2022
 ::text
@@ -75,7 +75,7 @@ slug: 112222_lighthouse_oyster_1
 text::
 Sixty restaurants in Manhattan and Brooklyn participate in the Billion Oyster Project’s shell collection program, including Lighthouse BK in Williamsburg. Saving the leftover shells from the oysters that diners slurp provides the literal foundation for the oysters.
 
-Lighthouse sources its oysters from the east coast and, as part of a suite of the restaurant’s sustainability efforts, for nearly eight years has been instructing her staff to set aside discarded shells for the BOP.
+Lighthouse sources its oysters from the east coast and, as part of a suite of the restaurant’s sustainability efforts, for nearly eight years has been instructing staff to set aside discarded shells for the BOP.
 
 “The world seems to be in a dire place,” said co-owner Naama Tamir. “We're kind of taking a step back and shifting our systems a little bit and then putting some energy into correcting the damage.”
 
